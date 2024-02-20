@@ -1,0 +1,21 @@
+body{
+    height: 100%;
+    overflow-y: hidden;
+}
+.loginPage{
+    background-color: red;
+    margin: 17rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 30rem;
+    padding: 3rem;
+    row-gap: 15px;
+}
+
+.but{
+    background-color: blue;
+    padding: 13px 43px;
+    border-radius: 23px;
+}
